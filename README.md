@@ -4,7 +4,7 @@ Marketing site for **J. Wilkerson Consulting**, the consulting practice of Jerod
 
 Static site (plain HTML/CSS, no build step) hosted on GitHub Pages with a custom domain. Light theme, BYU Royal accent — a deliberate counterpart to the book site (agenticprogrammingbook.com).
 
-© 2026 Jerod W. Wilkerson. All rights reserved. Site code and content are not licensed for reuse.
+© 2026 J. Wilkerson Consulting, LLC. All rights reserved. Site code and content are not licensed for reuse.
 
 ## Files
 
